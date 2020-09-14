@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://nifty-lamarr-db9d24.netlify.app"
 title = "Somrat | Hugo Portfolio Template"
 theme = "somrat"
 # disable language
